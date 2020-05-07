@@ -156,25 +156,3 @@ s2.add(9)
 print(s2)
 s2.discard(3)
 print(s2)
-
-d = {
-    1:'a',
-    2:'b'
-}
-print(d[2])
-
-d2 = {
-    '1': "Salut"
-}
-
-print(d2)
-
-my_dict = {1: "home, 2: "office}
-
-print(my_dict)
-print(my_dict.get(3, 'Default'))
-KEY = 3
-if KEY in my_dict
-    print("True")
-else:
-    print("False")
