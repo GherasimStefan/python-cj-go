@@ -76,16 +76,16 @@ print("Curs 4")
 #print(Suma(1,2))
 #print(Suma(1, 2, 3, 4, 5))
 
-def F(b, **a):
-    print(a)
-    print(b)
+#def F(b, **a):
+ #   print(a)
+  #  print(b)
 
-F("Parametrul b", unu= 1, doi= 2)
+#F("Parametrul b", unu= 1, doi= 2)
 
-Adunare = lambda a, b: a + b
-print(Adunare(1, 2))
+#Adunare = lambda a, b: a + b
+#print(Adunare(1, 2))
 
-Cub = lambda x: x**3
+#Cub = lambda x: x**3
 
-print(Cub(2))
+#print(Cub(2))
 
